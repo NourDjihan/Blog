@@ -1,6 +1,6 @@
 [
   {
-    "id": "class-names-blueprint",
+    "id": "class-names-distribution",
     "title": "Introduction to the ClassNames blueprint visualization: A simple heuristic towards the understanding of class naming regularity",
     "categories": ["Pharo", "Moose", "Visulization"],
     "datePublished": "March 10, 2021",
