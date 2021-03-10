@@ -5,5 +5,12 @@
     "categories": ["Pharo", "Moose", "Visulization"],
     "datePublished": "March 10, 2021",
     "draft": false
+  },
+  {
+    "id": "moose-intro",
+    "title": "Introduction to Moose",
+    "categories": ["Pharo", "Moose", "Tutorial"],
+    "datePublished": "March 10, 2021",
+    "draft": true
   }
 ]
